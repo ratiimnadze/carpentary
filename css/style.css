@@ -1102,7 +1102,7 @@ h6 {
 .subscribe__form #email {
     padding: 23px 19px;
     border: 1px solid white;
-    background-color: red;
+    background-color: #e4c188;
 }
 
 .subscribe__form #email::placeholder {
